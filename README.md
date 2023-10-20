@@ -1,2 +1,3 @@
-# html-101
-Recursos fundamentais para iniciantes em HTML. Tutoriais, exemplos de código e documentação para aprender os princípios básicos de desenvolvimento web com HTML.
+# 🤓📚 HTML: Início.
+
+Este repositório contém recursos essenciais para iniciantes em HTML.
