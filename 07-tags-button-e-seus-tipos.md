@@ -14,7 +14,12 @@
   
 ## 👩‍🏫 **Exemplo Básico (Botão de Envio):**
 
+📌
+
 ```html
 <form>
   <button type="submit">Enviar</button>
 </form>
+```
+
+📌
