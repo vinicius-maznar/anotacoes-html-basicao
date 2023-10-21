@@ -12,9 +12,14 @@
 
 ## 👩‍🏫 **Exemplo Básico:**
 
+📌
+
 ```html
 <form>
   <input type="radio" name="sexo" value="masculino"> Masculino
   <input type="radio" name="sexo" value="feminino"> Feminino
   <input type="radio" name="sexo" value="outro"> Outro
 </form>
+```
+
+📌
