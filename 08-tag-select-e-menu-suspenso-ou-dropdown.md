@@ -20,7 +20,7 @@
   <option value="banana">Banana</option>
   <option value="laranja">Laranja</option>
 </select>
-
+```
 📌
 
 # 👯‍♂️✔ Selecionando Múltiplas Opções em um Menu Suspenso (`<select>`)
