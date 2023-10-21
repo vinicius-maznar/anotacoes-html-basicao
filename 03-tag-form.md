@@ -19,6 +19,8 @@
 
 ## 👩‍🏫 **Exemplo Básico:**
 
+📌
+
 ```html
 <form action="/processar-dados" method="POST">
   <label for="nome">Nome:</label>
@@ -29,3 +31,6 @@
 
   <button type="submit">Enviar</button>
 </form>
+```
+
+📌
