@@ -1,4 +1,4 @@
-# ⚖ Tag **<input type="radio">**
+# ⚖ Tag `<input type="radio">`
 
 ## 🛠 **Funcionalidade:**
 
