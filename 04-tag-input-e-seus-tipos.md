@@ -17,11 +17,14 @@
   - `date`: Campo de data.
   - E muitos outros, como `email`, `number`, `tel`, `url` e `color`.
 
-📌
+
 
 ## 👩‍🏫 **Exemplo Básico (Campo de Texto):**
 
+📌
+
 ```html
 <input type="text" id="nome" name="nome" placeholder="Seu Nome" required>
+```
 
 📌
