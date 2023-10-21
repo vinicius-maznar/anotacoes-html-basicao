@@ -34,9 +34,9 @@
 
 - Tags podem conter atributos para fornecer informações adicionais, como imagens de origem, links e classes para estilização.
 
-📌
-
 ## 👩‍🏫 **Exemplo:**
+
+📌
 
 ```html
 <!DOCTYPE html>
