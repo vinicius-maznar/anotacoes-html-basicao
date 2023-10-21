@@ -23,7 +23,7 @@
 ```
 📌
 
-# 👯‍♂️✔ Selecionando Múltiplas Opções em um Menu Suspenso (`<select>`)
+# 👯‍♂️✔ Selecionando Múltiplas Opções em um Menu Suspenso `<select>`
 
 ## 🏗 **Configurando:**
 
