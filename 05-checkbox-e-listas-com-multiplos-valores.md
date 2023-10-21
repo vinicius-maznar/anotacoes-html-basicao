@@ -4,7 +4,7 @@
 
 - Use várias tags `<input type="checkbox>` para criar uma lista de opções em seu formulário.
 
-- Cada `<input type="checkbox>` deve ter um atributo `name` igual, indicando que eles fazem parte do mesmo grupo.
+- Cada `<input type="checkbox>` deve ter um atributo `name` igual, com '[]' no final do nome escolhido, indicando que eles fazem parte do mesmo grupo e que fazem parte de uma única lista.
 
 - Atribua valores diferentes ao atributo `value` de cada `<input type="checkbox>`, representando as opções da lista.
 
@@ -18,8 +18,8 @@
 
 ```html
 <form method="post">
-  <input type="checkbox" name="frutas" value="maca"> Maçã
-  <input type="checkbox" name="frutas" value="banana"> Banana
-  <input type="checkbox" name="frutas" value="laranja"> Laranja
+  <input type="checkbox" name="frutas[]" value="maca"> Maçã
+  <input type="checkbox" name="frutas[]" value="banana"> Banana
+  <input type="checkbox" name="frutas[]" value="laranja"> Laranja
 </form>
 ```
