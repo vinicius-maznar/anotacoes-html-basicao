@@ -1,4 +1,4 @@
-# 📝 Criar uma lista com **"checkbox"** 
+# 📝 Criar uma lista com `<input type="checkbox>" 
 
 ## 🧙‍♀️ **Transformando em Lista:**
 
