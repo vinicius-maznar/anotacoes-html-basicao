@@ -16,6 +16,8 @@
 
 - Criar uma lista em HTML com nomes de frutas utilizando a tag <input type="checkbox">:
 
+📌
+
 ```html
 <form method="post">
   <input type="checkbox" name="frutas[]" value="maca"> Maçã
@@ -23,3 +25,5 @@
   <input type="checkbox" name="frutas[]" value="laranja"> Laranja
 </form>
 ```
+
+📌
